@@ -1,6 +1,4 @@
-# GC_HW1.1
+# Draw Object with Lighting
 
 - C++
 - OpenGL
-
-# Draw Object with Lighting
